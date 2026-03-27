@@ -173,4 +173,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0050,100:0d0221&height=120&section=footer"/>
 
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Crazyspongebob&show_icons=true&theme=tokyonight)
+<!-- -->
+![Crazyspongebob's Stats](https://github-readme-stats.vercel.app/api?username=Crazyspongebob&show_icons=true&theme=tokyonight)
+
+### 🚀 常用语言统计
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyspongebob&layout=compact&theme=tokyonight)
+
+---
