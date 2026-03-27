@@ -50,8 +50,6 @@
 
 <!-- ═══════════════════════════════════════════════════ PROJECTS -->
 
-~/DEPLOYED
-
 <div align="center">
   <a href="https://github.com/Crazyspongebob/Group-interview-simulator">
     <img align="center" src="https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=Crazyspongebob&repo=Group-interview-simulator&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/>
@@ -88,38 +86,6 @@
 <img src="https://skillicons.dev/icons?i=js,nodejs,react,vite,express,html,css,git,github,vscode&theme=dark&perline=10" />
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-ecru.vercel.app/api?username=Crazyspongebob&show_icons=true&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff" width="47%"/>
-<img src="https://github-readme-stats-sigma-ecru.vercel.app/api/top-langs/?username=Crazyspongebob&layout=compact&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff" width="40%"/>
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Crazyspongebob&theme=radical&hide_border=false&background=0d0221&stroke=bf00ff&ring=00fff9&fire=ff00ff&currStreakLabel=00fff9&sideLabels=bf00ff&border=bf00ff" width="70%"/>
-
-</div>
-
----
-
-## 🐾 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Crazyspongebob&bg_color=0d0221&color=00fff9&line=bf00ff&point=ff00ff&area=true&border_color=bf00ff" width="95%"/>
-
-</div>
-
 ---
 
 <div align="center">
