@@ -1,13 +1,36 @@
-<div align="center">
+<!-- HEADER BANNER --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0050,100:0d0221&height=220&section=header&text=HAJIMI.EXE&fontSize=62&fontColor=00fff9&fontAlignY=38&desc=//+AI+ENGINEER+%7C+FULLSTACK+%7C+CAT+UNIT+ONLINE&descAlignY=58&descColor=bf00ff&animation=twinkling&stroke=00fff9&strokeWidth=1.5" width="100%"/> <div align="center">
+Typing SVG
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0050,100:0d0221&height=200&section=header&text=Crazyspongebob&fontSize=55&fontColor=00fff9&fontAlignY=40&desc=AI+Engineer+%7C+Fullstack+%7C+Cat+Unit+Online&descAlignY=60&descColor=bf00ff&animation=twinkling" width="100%"/>
-
-<!-- TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=1200&color=00FFF9&center=true&vCenter=true&width=500&lines=AI+Tool+Engineer+%F0%9F%A4%96;Fullstack+Developer+%F0%9F%9A%80;Cat+Unit+Online+%F0%9F%90%BE;Always+Shipping+%F0%9F%9F%A2)](https://git.io/typing-svg)
+</div> <br/> <!-- CAT + BIO SPLIT --> <table align="center" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="340" valign="top">
+ /\_____/\     ██╗  ██╗ █████╗      ██╗██╗███╗   ███╗██╗       
+( ●     ● )    ██║  ██║██╔══██╗     ██║██║████╗ ████║██║      
+ (  ___  )     ███████║███████║     ██║██║██╔████╔██║██║
+  )     (      ██╔══██║██╔══██║██   ██║██║██║╚██╔╝██║██║
+ (_________)   ██║  ██║██║  ██║╚█████╔╝██║██║ ╚═╝ ██║██║
+  🐾     🐾   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝╚═╝     ╚═╝╚═╝
++ NODE     :: Hajimi / China
++ CLASS    :: AI Tool Engineer
++ LEVEL    :: Building
++ STATUS   :: Shipping 🟢
++ CAT_OPS  :: Active 🐾
+- BUGS     :: Deploying fixes...
+</td> <td width="30"></td> <td valign="top"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="240" alt="pixel cat coding"/> </td> </tr> </table> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00fff9&height=2"/> <br/> <!-- PROJECTS -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>  ~/DEPLOYED
+<div align="center"> <a href="https://github.com/Crazyspongebob/Group-interview-simulator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazyspongebob&repo=Group-interview-simulator&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/> </a> &nbsp;&nbsp; <a href="https://github.com/Crazyspongebob/ai-resume-optimizer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazyspongebob&repo=ai-resume-optimizer&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/> </a> </div> <br/> <img width="120%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00fff9&height=2"/> <br/> <!-- STACK -->
 
 </div>
+## `~/projects` &nbsp;▸&nbsp; DEPLOYED
 
+<div align="center">
+
+
+
+| &nbsp; | Project                                                      | Description                                                  | Stack                          |
+| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ |
+| 🐾      | [**Group Interview Simulator**](https://github.com/Crazyspongebob/Group-interview-simulator) | AI-powered group mock interview engine — multi-agent, cat-operated | `Node.js` `Vanilla JS` `LLM`   |
+| 🐾      | [**AI Resume Optimizer**](https://github.com/Crazyspongebob/ai-resume-optimizer) | Resume × JD matching · AI rewrite · PDF export               | `React` `Vite` `Express` `LLM` |
+
+</div>
 ---
 
 ## ⚡ Tech Stack
