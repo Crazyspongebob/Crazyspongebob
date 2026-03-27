@@ -1,13 +1,8 @@
 <!-- ═══════════════════════════════════════════════════ HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,60:1a0050,100:0d0221&height=250&section=header&text=HAJIMI.EXE&fontSize=75&fontColor=00fff9&fontAlignY=45&desc=//+AI+ENGINEER+%7C+FULLSTACK+%7C+CAT+UNIT+%5BONLINE%5D&descAlignY=65&descColor=bf00ff&animation=twinkling&stroke=00fff9&strokeWidth=2"/>
-
 <!-- ═══════════════════════════════════════════════════ TYPING -->
-
 <div align="center">
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=1000&color=00FFF9&background=00000000&center=true&vCenter=true&multiline=false&width=650&lines=%3E+SYSTEM+BOOT...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+AI+MODULES+LOADED+%E2%9C%94;%3E+CAT+UNIT+DETECTED+%F0%9F%90%BE+%E2%9C%94;%3E+READY+TO+SHIP.)](https://git.io/typing-svg)
-
 </div>
 
 <br/>
@@ -20,16 +15,16 @@
 
 
 ```
-  ██████╗ ███████╗ █████╗ ██████╗ ██╗   ██╗
-  ██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝
-  ██████╔╝█████╗  ███████║██║  ██║ ╚████╔╝
-  ██╔══██╗██╔══╝  ██╔══██║██║  ██║  ╚██╔╝
-  ██║  ██║███████╗██║  ██║██████╔╝   ██║
-  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝    ╚═╝
+ /\_____/\     ██╗  ██╗ █████╗      ██╗██╗███╗   ███╗██╗         
+( ●     ● )    ██║  ██║██╔══██╗     ██║██║████╗ ████║██║
+ (  ___  )     ███████║███████║     ██║██║██╔████╔██║██║
+  )     (      ██╔══██║██╔══██║██   ██║██║██║╚██╔╝██║██║
+ (_________)   ██║  ██║██║  ██║╚█████╔╝██║██║ ╚═╝ ██║██║    
+  🐾     🐾   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝╚═╝     ╚═╝╚═╝       
 ```
 
 ```diff
-+ NODE     :: Hajimi / China
++ NODE     :: Hajimi / China                      
 + CLASS    :: AI Tool Engineer
 + LEVEL    :: Building
 + STATUS   :: Shipping 🟢
