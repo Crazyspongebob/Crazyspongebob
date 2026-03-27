@@ -1,102 +1,174 @@
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0050,100:0d0221&height=220&section=header&text=HAJIMI.EXE&fontSize=62&fontColor=00fff9&fontAlignY=38&desc=//+AI+ENGINEER+%7C+FULLSTACK+%7C+CAT+UNIT+ONLINE&descAlignY=58&descColor=bf00ff&animation=twinkling&stroke=00fff9&strokeWidth=1.5" width="100%"/>
+<!-- ═══════════════════════════════════════════════════ HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,60:1a0050,100:0d0221&height=250&section=header&text=HAJIMI.EXE&fontSize=75&fontColor=00fff9&fontAlignY=45&desc=//+AI+ENGINEER+%7C+FULLSTACK+%7C+CAT+UNIT+%5BONLINE%5D&descAlignY=65&descColor=bf00ff&animation=twinkling&stroke=00fff9&strokeWidth=2"/>
+
+<!-- ═══════════════════════════════════════════════════ TYPING -->
 
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=1200&color=00FFF9&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+CAREER+SYSTEM...;%3E+LOADING+AI+MODULES...+OK;%3E+CAT+UNIT+DETECTED+%F0%9F%90%BE;%3E+ALL+SYSTEMS+OPERATIONAL.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=1000&color=00FFF9&background=00000000&center=true&vCenter=true&multiline=false&width=650&lines=%3E+SYSTEM+BOOT...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+AI+MODULES+LOADED+%E2%9C%94;%3E+CAT+UNIT+DETECTED+%F0%9F%90%BE+%E2%9C%94;%3E+READY+TO+SHIP.)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ CAT + BIO SPLIT -->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="340" valign="top">
+
 
 ```
- /\_____/\     ██╗  ██╗ █████╗      ██╗██╗███╗   ███╗██╗
-( ●     ● )    ██║  ██║██╔══██╗     ██║██║████╗ ████║██║
- (  ___  )     ███████║███████║     ██║██║██╔████╔██║██║
-  )     (      ██╔══██║██╔══██║██   ██║██║██║╚██╔╝██║██║
- (_________)   ██║  ██║██║  ██║╚█████╔╝██║██║ ╚═╝ ██║██║
-  🐾     🐾   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝╚═╝     ╚═╝╚═╝
+  ██████╗ ███████╗ █████╗ ██████╗ ██╗   ██╗
+  ██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝
+  ██████╔╝█████╗  ███████║██║  ██║ ╚████╔╝
+  ██╔══██╗██╔══╝  ██╔══██║██║  ██║  ╚██╔╝
+  ██║  ██║███████╗██║  ██║██████╔╝   ██║
+  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝    ╚═╝
 ```
-
-<div align="center">
-
 
 ```diff
-+ LOCATION   :: China / CN
-+ FOCUS      :: AI Tools · Fullstack · LLM Integration
-+ STATUS     :: Building in public 🟢
-- CUTE       :: false
-+ CAT_LOVER  :: true
++ NODE     :: Hajimi / China
++ CLASS    :: AI Tool Engineer
++ LEVEL    :: Building
++ STATUS   :: Shipping 🟢
++ CAT_OPS  :: Active 🐾
+- BUGS     :: Deploying fixes...
 ```
 
-</div>
+</td>
+<td width="30"></td>
+<td valign="top">
 
----
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="240" alt="pixel cat coding"/>
 
-## `~/projects` &nbsp;▸&nbsp; DEPLOYED
+</td>
+</tr>
+</table>
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════ DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00fff9&height=2"/>
 
+<br/>
 
-| &nbsp; | Project                                                      | Description                                                  | Stack                          |
-| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ |
-| 🐾      | [**Group Interview Simulator**](https://github.com/Crazyspongebob/Group-interview-simulator) | AI-powered group mock interview engine — multi-agent, cat-operated | `Node.js` `Vanilla JS` `LLM`   |
-| 🐾      | [**AI Resume Optimizer**](https://github.com/Crazyspongebob/ai-resume-optimizer) | Resume × JD matching · AI rewrite · PDF export               | `React` `Vite` `Express` `LLM` |
+<!-- ═══════════════════════════════════════════════════ PROJECTS -->
 
-</div>
-
----
-
-## `~/stack` &nbsp;▸&nbsp; WEAPONS OF CHOICE
-
-<div align="center">
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## `~/stats` &nbsp;▸&nbsp; METRICS
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;`~/DEPLOYED`
 
 <div align="center">
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Crazyspongebob&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&ring_color=ff00ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyspongebob&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=00fff9&text_color=ffffff&langs_count=6" />
+<a href="https://github.com/Crazyspongebob/Group-interview-simulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazyspongebob&repo=Group-interview-simulator&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff&hide_border=false"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Crazyspongebob/ai-resume-optimizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazyspongebob&repo=ai-resume-optimizer&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff&hide_border=false"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00fff9&height=2"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ STACK -->
+
+## ⚡ &nbsp;`~/WEAPONS`
+
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,vite,express,html,css,git,github,vscode&theme=dark&perline=10" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00fff9&height=2"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ TROPHIES -->
+
+## 🏆 &nbsp;`~/TROPHIES`
+
+<div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=Crazyspongebob&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00fff9&height=2"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ STATS -->
+
+## 📊 &nbsp;`~/METRICS`
+
+<div align="center">
+
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Crazyspongebob&show_icons=true&theme=radical&hide_border=false&count_private=true&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff&ring_color=ff00ff"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crazyspongebob&layout=compact&theme=radical&hide_border=false&bg_color=0d0221&title_color=00fff9&text_color=ffffff&border_color=bf00ff&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Crazyspongebob&theme=radical&hide_border=true&background=0d0221&stroke=00fff9&ring=bf00ff&fire=ff00ff&currStreakLabel=00fff9&sideLabels=00fff9&dates=ffffff" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Crazyspongebob&theme=radical&hide_border=false&background=0d0221&stroke=bf00ff&ring=00fff9&fire=ff00ff&currStreakLabel=00fff9&sideLabels=bf00ff&dates=aaaaaa&border=bf00ff"/>
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ ACTIVITY -->
+
+## 🐾 &nbsp;`~/ACTIVITY`
 
 <div align="center">
 
 
-`🐾` &nbsp;&nbsp; `🐾` &nbsp;&nbsp; `🐾` &nbsp;&nbsp; `🐾` &nbsp;&nbsp; `🐾`
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Crazyspongebob&bg_color=0d0221&color=00fff9&line=bf00ff&point=ff00ff&area_color=1a0050&area=true&hide_border=false&border_color=bf00ff&title_color=00fff9"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ FOOTER -->
+
+<div align="center">
+
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+
+<br/>
 
 ```
-> "The cat does not ask for permission to exist.
-   Neither does good code."
-                                        — 🐾
+┌─────────────────────────────────────────────────────────┐
+│  "The cat does not ask for permission to exist.          │
+│   Neither does good code."                    — 🐾       │
+└─────────────────────────────────────────────────────────┘
 ```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Crazyspongebob&color=bf00ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-<!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0050,100:0d0221&height=120&section=footer&fontColor=00fff9" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0050,100:0d0221&height=120&section=footer"/>
