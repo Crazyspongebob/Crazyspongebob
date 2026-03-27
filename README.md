@@ -1,12 +1,11 @@
-<!-- HEADER BANNER --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0050,100:0d0221&height=220&section=header&text=HAJIMI.EXE&fontSize=62&fontColor=00fff9&fontAlignY=38&desc=//+AI+ENGINEER+%7C+FULLSTACK+%7C+CAT+UNIT+ONLINE&descAlignY=58&descColor=bf00ff&animation=twinkling&stroke=00fff9&strokeWidth=1.5" width="100%"/> <div align="center">
-<!-- ═══════════════════════════════════════════════════ TYPING -->
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0050,100:0d0221&height=220&section=header&text=HAJIMI.EXE&fontSize=62&fontColor=00fff9&fontAlignY=38&desc=//+AI+ENGINEER+%7C+FULLSTACK+%7C+CAT+UNIT+ONLINE&descAlignY=58&descColor=bf00ff&animation=twinkling&stroke=00fff9&strokeWidth=1.5" width="100%"/>
 
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════ TYPING -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=1000&color=00FFF9&background=00000000&center=true&vCenter=true&multiline=false&width=650&lines=%3E+SYSTEM+BOOT...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+AI+MODULES+LOADED+%E2%9C%94;%3E+CAT+UNIT+DETECTED+%F0%9F%90%BE+%E2%9C%94;%3E+READY+TO+SHIP.)](https://git.io/typing-svg)
-
-</div>
 
 <br/>
 
@@ -15,7 +14,6 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="340" valign="top">
-
 
 ```
  /\_____/\     ██╗  ██╗ █████╗      ██╗██╗███╗   ███╗██╗           
@@ -52,19 +50,35 @@
 
 <!-- ═══════════════════════════════════════════════════ PROJECTS -->
 
+~/DEPLOYED
+
+<div align="center">
+  <a href="https://github.com/Crazyspongebob/Group-interview-simulator">
+    <img align="center" src="https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=Crazyspongebob&repo=Group-interview-simulator&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Crazyspongebob/ai-resume-optimizer">
+    <img align="center" src="https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=Crazyspongebob&repo=ai-resume-optimizer&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/>
+  </a>
 </div>
-## `~/projects` &nbsp;▸&nbsp; DEPLOYED
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00fff9&height=2"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ STACK TABLE -->
 
 <div align="center">
 
-
-
-| &nbsp; | Project                                                      | Description                                                  | Stack                          |
-| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ |
-| 🐾      | [**Group Interview Simulator**](https://github.com/Crazyspongebob/Group-interview-simulator) | AI-powered group mock interview engine — multi-agent, cat-operated | `Node.js` `Vanilla JS` `LLM`   |
-| 🐾      | [**AI Resume Optimizer**](https://github.com/Crazyspongebob/ai-resume-optimizer) | Resume × JD matching · AI rewrite · PDF export               | `React` `Vite` `Express` `LLM` |
+| &nbsp; | Project | Description | Stack |
+| ------ | ------- | ----------- | ----- |
+| 🐾 | [**Group Interview Simulator**](https://github.com/Crazyspongebob/Group-interview-simulator) | AI-powered group mock interview engine — multi-agent, cat-operated | `Node.js` `Vanilla JS` `LLM` |
+| 🐾 | [**AI Resume Optimizer**](https://github.com/Crazyspongebob/ai-resume-optimizer) | Resume × JD matching · AI rewrite · PDF export | `React` `Vite` `Express` `LLM` |
 
 </div>
+
 ---
 
 ## ⚡ Tech Stack
@@ -81,11 +95,8 @@
 
 <div align="center">
 
-<!-- ✅ 使用 github-profile-summary-cards，托管在 vercel，最稳定 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crazyspongebob&theme=radical" width="95%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crazyspongebob&theme=radical" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Crazyspongebob&theme=radical" width="45%"/>
+<img src="https://github-readme-stats-sigma-ecru.vercel.app/api?username=Crazyspongebob&show_icons=true&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff" width="47%"/>
+<img src="https://github-readme-stats-sigma-ecru.vercel.app/api/top-langs/?username=Crazyspongebob&layout=compact&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff" width="40%"/>
 
 </div>
 
@@ -95,7 +106,6 @@
 
 <div align="center">
 
-<!-- ✅ 使用 streak-stats.demolab.com，官方维护，稳定 -->
 <img src="https://streak-stats.demolab.com?user=Crazyspongebob&theme=radical&hide_border=false&background=0d0221&stroke=bf00ff&ring=00fff9&fire=ff00ff&currStreakLabel=00fff9&sideLabels=bf00ff&border=bf00ff" width="70%"/>
 
 </div>
