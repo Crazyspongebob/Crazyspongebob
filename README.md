@@ -51,12 +51,24 @@
 <!-- ═══════════════════════════════════════════════════ PROJECTS -->
 
 <div align="center">
-  <a href="https://github.com/Crazyspongebob/Group-interview-simulator">
-    <img align="center" src="https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=Crazyspongebob&repo=Group-interview-simulator&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/>
+  <a href="https://github.com/Crazyspongebob/HaJimi-advantage-finder">
+    <img align="center" src="https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=Crazyspongebob&repo=HaJimi-advantage-finder&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Crazyspongebob/ai-resume-optimizer">
     <img align="center" src="https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=Crazyspongebob&repo=ai-resume-optimizer&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Crazyspongebob/Group-interview-simulator">
+    <img align="center" src="https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=Crazyspongebob&repo=Group-interview-simulator&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Crazyspongebob/Salary-negotiation-simulator">
+    <img align="center" src="https://github-readme-stats-sigma-ecru.vercel.app/api/pin/?username=Crazyspongebob&repo=Salary-negotiation-simulator&theme=radical&bg_color=0d0221&title_color=00fff9&icon_color=bf00ff&text_color=ffffff&border_color=bf00ff"/>
   </a>
 </div>
 
@@ -72,12 +84,12 @@
 
 | &nbsp; | Project | Description | Stack |
 | ------ | ------- | ----------- | ----- |
-| 🐾 | [**Group Interview Simulator**](https://github.com/Crazyspongebob/Group-interview-simulator) | AI-powered group mock interview engine — multi-agent, cat-operated | `Node.js` `Vanilla JS` `LLM` |
-| 🐾 | [**AI Resume Optimizer**](https://github.com/Crazyspongebob/ai-resume-optimizer) | Resume × JD matching · AI rewrite · PDF export | `React` `Vite` `Express` `LLM` |
+| 🐾 | [**HaJimi Advantage Finder**](https://github.com/Crazyspongebob/HaJimi-advantage-finder) | **Step 1: Self-Discovery** · Find your core strengths using AI & Gallup framework | `JavaScript` `LLM` |
+| 🐾 | [**AI Resume Optimizer**](https://github.com/Crazyspongebob/ai-resume-optimizer) | **Step 2: Preparation** · Resume × JD matching · AI rewrite · PDF export | `React` `Vite` `Express` `LLM` |
+| 🐾 | [**Group Interview Simulator**](https://github.com/Crazyspongebob/Group-interview-simulator) | **Step 3: Practice** · AI-powered group mock interview engine — multi-agent | `Node.js` `Vanilla JS` `LLM` |
+| 🐾 | [**Salary Negotiation Simulator**](https://github.com/Crazyspongebob/Salary-negotiation-simulator) | **Step 4: The Offer** · Practice negotiating with AI recruiters for your best offer | `TypeScript` `LLM` |
 
 </div>
-
----
 
 ## ⚡ Tech Stack
 
